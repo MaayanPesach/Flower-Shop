@@ -17,6 +17,13 @@ img{
     height: 200px;
 }
 a{
-    text-align: right;
     font-size: large;
+    margin-right: 50px;
+}
+nav{
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: blue;
 }
