@@ -27,3 +27,8 @@ p{
     text-align: center;
     color: blue;
 }
+form{
+    border: 2px black solid;
+    text-align: center;
+    margin-top: 12%;
+}
